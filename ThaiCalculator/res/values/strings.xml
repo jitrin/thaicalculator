@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThaiCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="thai">ไทย จิ้มตรงนี้เบาๆ</string>
+    <string name="english">English, touch here gently</string>
+    <string name="delete">ลบ</string>
+    <string name="clear">ล้าง</string>
+    <string name="equal">=</string>
+    <string name="zero">๐</string>
+    <string name="period">.</string>
+    <string name="one">๑</string>
+    <string name="two">๒</string>
+    <string name="three">๓</string>
+    <string name="four">๔</string>
+    <string name="five">๕</string>
+    <string name="six">๖</string>
+    <string name="seven">๗</string>
+    <string name="eight">๘</string>
+    <string name="nine">๙</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+
+</resources>
